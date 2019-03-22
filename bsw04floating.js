@@ -24,3 +24,6 @@ for (var i = 0; i < cmts.length; i++) {
 }
 //]]>
 </script>
+<script>
+window.onscroll = function() {if ($(this).scrollTop() &gt; 100) {$(&quot;#bacsiwindows-go-top&quot;).addClass(&quot;hien&quot;);}else{$(&quot;#bacsiwindows-go-top&quot;).removeClass(&quot;hien&quot;);}}
+</script>
