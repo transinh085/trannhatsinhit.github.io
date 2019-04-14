@@ -1,2 +1,0 @@
-# trannhatsinhit.github.io
-TNS
